@@ -1,6 +1,4 @@
-## AMANDA MATTHES
-
-### CV
+## CV
 
 ```markdown
 Syntax highlighted code block
@@ -20,8 +18,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Projects
 
-#### BSc Thesis - Exploiting Instruction Level Parallelism
+### BSc Thesis - Exploiting Instruction Level Parallelism
 
-#### Lecture Notes
+### Lecture Notes

@@ -17,8 +17,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+You can download my CV [here](docs/cv.pdf)
 
+## BSc Thesis - Exploiting Instruction Level Parallelism
 
-### BSc Thesis - Exploiting Instruction Level Parallelism
-
-### Lecture Notes
+## Lecture Notes

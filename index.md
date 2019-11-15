@@ -52,7 +52,6 @@ Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stach
 ## Updates
 
 | September 2019 | Started my 4-year PhD at the University of Oxford                                  |
-|----------------|------------------------------------------------------------------------------------|
 | August 2019    | Went to QuID 2019, a summer school on quantum information at the ETH Zurich        |
 | July 2019      | Started working at the CERN data centre as part of their summer student programme  |
 | June 2019      | Defended my BSc thesis                                                             |

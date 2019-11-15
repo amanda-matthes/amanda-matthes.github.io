@@ -6,7 +6,7 @@ I hope to eventually pursue research into quantum computers, but I am also inter
 
 ## CV
 
-You can download my CV [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/CV/cv.pdf)
+You can download my CV [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/CV/cv.pdf).
 
 
 ## BSc Thesis - Exploiting Instruction Level Parallelism
@@ -16,8 +16,18 @@ Superscalar out-of-order execution has become the norm in modern processors. Yet
 You can access the whole thesis text [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf).
 
 
+## Other stuff
 
-## Lecture Notes
+### A Simple Logic Circuit Simulator 
+
+A simple console-based simulator for idealised logic circuits. You can find a compiled .exe in the folder "Debug". <br>
+[Link to the GitHub repo](https://github.com/amanda-matthes/A-Simple-Logic-Circuit-Simulator)
+
+
+### Lecture Notes
+
+
+
 
 
 

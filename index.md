@@ -13,15 +13,13 @@ Superscalar out-of-order execution has become the norm in modern processors. Yet
 You can access the whole thesis text [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf). <br>
 
 
-## Other stuff
-
-### A Simple Logic Circuit Simulator 
+## A Simple Logic Circuit Simulator 
 
 A simple console-based simulator for idealised logic circuits. You can find a compiled .exe in the folder "Debug". <br>
 [Link to the GitHub repo](https://github.com/amanda-matthes/A-Simple-Logic-Circuit-Simulator) <br>
 
 
-### Lecture Notes
+## Lecture Notes
 Most of my lecture notes are not worth sharing but here are some that might help others taking these courses now (or similar ones).
 I usually type out my lecture notes whenever the lecturer does not provide them or if the official notes are not useful. For me, lecture notes need to be searchable (so not handwritten), written in full sentences (so slides don't count) and concise but comprehensive. <br>
 Sometimes I just like to type out lecture notes as a form of revision for the exam. <br>

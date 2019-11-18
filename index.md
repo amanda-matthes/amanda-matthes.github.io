@@ -37,7 +37,7 @@ Held in the winter of 2017/2018 at the University of Manchester by Prof Gary Ful
 ##### Quantum Physics and Relativity
 Held in the winter of 2017/2018 at the University of Manchester by Prof Brian Cox and Prof Jeffrey Forshaw. It is a very simple introduction to SRT and Quantum Physics.<br>
 
-##### Applications of Quantum Physics
+##### [Applications of Quantum Physics](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/Applications_of_Quantum_Physics.pdf)
 Held in the winter of 2017/2018 at the University of Manchester by Prof Sean Freeman. The course introduces some interesting new technologies in which quantum phenomena like tunneling and superposition are exploited. This is mostly just a typed out copy of the handwritten lecture notes with some comments by me.<br>
 
 ##### Zeeman Spectroscopy

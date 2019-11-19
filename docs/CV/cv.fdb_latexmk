@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1574175327 "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.tex" "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.pdf" "cv" 1574175328
+["pdflatex"] 1574175592 "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.tex" "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.pdf" "cv" 1574175593
   "C:/Users/Amanda Matthes/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1571416920 4277749 51793eff2af44edc3fd95f72805771ab ""
   "C:/Users/Amanda Matthes/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1574175326 83751 6e4565e2a96ca36e797cc3ed7d4e67f8 ""
   "C:/Users/Amanda Matthes/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -92,15 +92,15 @@
   "C:/Users/Amanda Matthes/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/tabularx.sty" 1570126938 7149 0761e0046ae54b8c3b512ab8e07fef1c ""
   "C:/Users/Amanda Matthes/AppData/Local/Programs/MiKTeX 2.9/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "Source/portrait_alt.jpg" 1573836139 144877 f4ea60b4b36bf9bd5a493e7413557ed0 ""
-  "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.aux" 1574175328 721 825577c5d23a325438d9cd3881a36f71 ""
-  "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.tex" 1574175312 5429 41c6985500e5c17fa45c2ebd8b18c5a5 ""
-  "cv.aux" 1574175328 721 825577c5d23a325438d9cd3881a36f71 "pdflatex"
-  "cv.out" 1574175328 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv.tex" 1574175312 5429 41c6985500e5c17fa45c2ebd8b18c5a5 ""
+  "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.aux" 1574175593 721 825577c5d23a325438d9cd3881a36f71 ""
+  "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.tex" 1574175592 5475 e9976ecb5c07825cadf7bbe4bfb1ed4f ""
+  "cv.aux" 1574175593 721 825577c5d23a325438d9cd3881a36f71 "pdflatex"
+  "cv.out" 1574175593 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.tex" 1574175592 5475 e9976ecb5c07825cadf7bbe4bfb1ed4f ""
   (generated)
+  "cv.out"
+  "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.log"
   "cv.pdf"
   "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.pdf"
-  "cv.log"
-  "c:/Users/Amanda Matthes/Documents/GitHub/amanda-matthes.github.io/docs/CV/cv.log"
   "cv.aux"
-  "cv.out"
+  "cv.log"

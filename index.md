@@ -5,18 +5,13 @@ I hope to eventually pursue research into quantum computers, but I am also inter
 
 You can download my CV [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/CV/cv.pdf). <br>
 
+Here is a link to my [GitHub profile](github.com/amanda-matthes)
 
 ## BSc Thesis - Exploiting Instruction Level Parallelism
 
 Superscalar out-of-order execution has become the norm in modern processors. Yet there is little information in the literature about its implementation details. This thesis explores what new hardware structures superscalar out-of-order execution requires. It presents a design for a simple processor, implemented in SystemVerilog, that uses register renaming, reservation stations and a reorder buffer to dynamically schedule instructions. <br>
 
 You can access the whole thesis text [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf). <br>
-
-
-## A Simple Logic Circuit Simulator 
-
-A simple console-based simulator for idealised logic circuits. You can find a compiled .exe in the folder "Debug". <br>
-[Link to the GitHub repo](https://github.com/amanda-matthes/A-Simple-Logic-Circuit-Simulator) <br>
 
 
 ## Lecture Notes

@@ -43,10 +43,12 @@ Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stach
 
 |               |                                                                                    |
 |---------------|------------------------------------------------------------------------------------|
-| 10/2019       | Started my 4-year PhD at the University of Oxford                                  |
+| 04/2020       | Began a 10-week project with the Satellite Applications Catapult                   |
+| 03/2020       | I am the new Publicity Officer for the Oxford Union Physics Society                |
+| 10/2019       | Started my 4-year PhD at the University of Oxford with the AIMS CDT                |
 | 08/2019       | Went to QuID 2019, a summer school on quantum information at the ETH Zurich        |
 | 07/2019       | Started working at the CERN data centre as part of their summer student programme  |
-| 06/2019       | Defended my BSc thesis                                                             |
+| 06/2019       | Defended my BSc thesis on superscalar out-of-order processing                      |
 
 
 

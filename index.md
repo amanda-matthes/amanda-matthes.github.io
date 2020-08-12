@@ -4,7 +4,7 @@ I am a PhD candidate at the University of Oxford with the [AIMS CDT](aims.robots
 
 You can download my CV [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/CV/cv.pdf). <br>
 
-Here is a link to my [GitHub profile](github.com/amanda-matthes)
+Here is a link to my [GitHub profile](github.com/amanda-matthes).
 
 ## BSc Thesis - Exploiting Instruction Level Parallelism
 
@@ -12,6 +12,9 @@ Superscalar out-of-order execution has become the norm in modern processors. Yet
 
 You can access the whole thesis text [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf). <br>
 
+## Oxford University Physics Society
+The [OU Physics Society](https://oxford-physsoc.com/) organises talks, extracurricular classes and socials for anyone interested physics and its many applications. I am currently the Publicity Officer and in charge of the event announcements and any new stash. <br>
+Stay up to date on our events with our [facebook page](https://www.facebook.com/physsoc) or join our mailing list on our [website](https://oxford-physsoc.com/) to become a physics phriend!
 
 ## Lecture Notes
 Most of my lecture notes are not worth sharing but here are some that might help others taking these courses now (or similar ones).
@@ -38,12 +41,14 @@ This is a long evaluation for one of the many experiments that physics students 
 Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stachel. Experimental physics IV is a course on nuclear and particle physics. <br>
 
 
+
+
 ## Updates
 
 |               |                                                                                    |
 |---------------|------------------------------------------------------------------------------------|
 | 04/2020       | Began a 10-week project with the Satellite Applications Catapult                   |
-| 03/2020       | I am the new Publicity Officer for the Oxford Union Physics Society                |
+| 03/2020       | I am now the new Publicity Officer for the Oxford University Physics Society       |
 | 10/2019       | Started my 4-year PhD at the University of Oxford with the AIMS CDT                |
 | 08/2019       | Went to QuID 2019, a summer school on quantum information at the ETH Zurich        |
 | 07/2019       | Started working at the CERN data centre as part of their summer student programme  |

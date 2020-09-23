@@ -8,8 +8,8 @@ You can access the whole thesis text [here](https://github.com/amanda-matthes/am
 
 ## Oxford University Physics Society
 The [OU Physics Society](https://oxford-physsoc.com/) organises talks, extracurricular classes and socials for anyone interested physics and its many applications. I am currently the Publicity Officer and in charge of the event announcements and any new stash. <br>
-Stay up to date on our events with our [facebook page](https://www.facebook.com/physsoc) or join our mailing list on our [website](https://oxford-physsoc.com/) to become a physics phriend! <br> <br>
-This September we are also co-hosting the inaugural [Varsity Sci](https://www.facebook.com/events/356998161964217)! This is a virtual five-day symposium where Oxbridge researchers can present their work in 10-20 minute talks. If you are interested in giving a talk about your research use [this form](https://tinyurl.com/varsitysci).
+Stay up to date on our events with our [facebook page](https://www.facebook.com/physsoc) or join our mailing list on our [website](https://oxford-physsoc.com/) to become a physics phriend! I also just launched our [online store](https://shop.spreadshirt.co.uk/ou-physics-society-stash/all) for all your stash needs. <br> <br>
+This September we are co-hosting the inaugural [Varsity Sci](https://www.facebook.com/events/356998161964217)! This is a virtual five-day symposium where Oxbridge researchers can present their work in 10-20 minute talks. <br>
 
 ## Lecture Notes
 Most of my lecture notes are not worth sharing but here are some that might help others taking these courses now (or similar ones).
@@ -42,16 +42,17 @@ Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stach
 
 |               |                                                                                   |
 |---------------|-----------------------------------------------------------------------------------|
+| 09/2020       | The Physics Society is part of the inaugural Varsity Sci!                         |
 | 07/2020       | Began my second mini-project with Alex Rogers on Snapshot GPS receivers           |
 | 04/2020       | Began a 10-week project with the Satellite Applications Catapult                  |
-| 03/2020       | I am now the new Publicity Officer for the Oxford University Physics Society      |
+| 03/2020       | I am now the new Publicity Officer for the Oxford University Physics Society!     |
 | 10/2019       | Started my 4-year PhD at the University of Oxford with the AIMS CDT               |
 | 08/2019       | Went to QuID 2019, a summer school on quantum information at the ETH Zurich       |
 | 07/2019       | Started working at the CERN data centre as part of their summer student programme |
 | 06/2019       | Defended my BSc thesis on superscalar out-of-order processing                     |
 
 
-
+<br>
 
 
 Hosted on GitHub Pages - Theme by [orderedlist](https://github.com/orderedlist)

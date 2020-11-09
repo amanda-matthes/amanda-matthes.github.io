@@ -1,5 +1,6 @@
 ## About
 I am a PhD candidate at the University of Oxford with the [AIMS CDT](aims.robots.ox.ac.uk). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors. <br>
+Recently, I have started working on low-cost conservation technologies.
 
 ## BSc Thesis - Exploiting Instruction Level Parallelism
 Superscalar out-of-order execution has become the norm in modern processors. Yet there is little information in the literature about its implementation details. This thesis explores what new hardware structures superscalar out-of-order execution requires. It presents a design for a simple processor, implemented in SystemVerilog, that uses register renaming, reservation stations and a reorder buffer to dynamically schedule instructions. <br>

@@ -42,6 +42,7 @@ Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stach
 
 
 ## Updates
+
 |               |                                                                                   |
 |---------------|-----------------------------------------------------------------------------------|
 | 02/2021       | This term, I will be hosting our Wednesday talks for the Physics Society.         |

@@ -1,6 +1,6 @@
 ## About
 I am a PhD candidate at the University of Oxford with the [AIMS CDT](aims.robots.ox.ac.uk). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors. <br>
-Recently, I have started working on low-cost conservation technologies.
+Recently, I have started working on low-cost conservation technologies. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/).
 
 ## BSc Thesis - Exploiting Instruction Level Parallelism
 Superscalar out-of-order execution has become the norm in modern processors. Yet there is little information in the literature about its implementation details. This thesis explores what new hardware structures superscalar out-of-order execution requires. It presents a design for a simple processor, implemented in SystemVerilog, that uses register renaming, reservation stations and a reorder buffer to dynamically schedule instructions. <br>
@@ -19,7 +19,7 @@ Most of my lecture notes are not worth sharing but here are some that might help
 I usually type out my lecture notes whenever the lecturer does not provide them or if the official notes are not useful. For me, lecture notes need to be searchable (so not handwritten), written in full sentences (so slides don't count) and concise but comprehensive. <br>
 Sometimes I just like to type out lecture notes as a form of revision for the exam. <br>
 
-#### English notes:
+#### English notes
 
 ##### [Introduction to Astrophysics and Cosmology](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/Introduction_to_Astrophysics_and_Cosmology.pdf)
 Held in the winter of 2017/2018 at the University of Manchester by Prof Gary Fuller and Prof Albert Zijlstra. This course is an introduction to stars, orbits, galaxies and cosmology.<br>
@@ -33,7 +33,7 @@ Held in the winter of 2017/2018 at the University of Manchester by Prof Sean Fre
 ##### [Zeeman Spectroscopy](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/f44.pdf)
 This is a long evaluation for one of the many experiments that physics students at the University of Heidelberg have to do to get their BSc degree.<br>
 
-#### German notes:
+#### German notes
 
 ##### [Experimentalphysik IV](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/Experimentalphysik_IV.pdf)
 Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stachel. Experimental physics IV is a course on nuclear and particle physics. <br> <br>
@@ -43,17 +43,18 @@ Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stach
 
 ## Updates
 
-|               |                                                                                   |
+| Date          |News                                                                               |
 |---------------|-----------------------------------------------------------------------------------|
 | 02/2021       | This term, I will be hosting our Wednesday talks for the Physics Society.         |
-| 09/2020       | The Physics Society is part of the inaugural Varsity Sci.                         |
+| 11/2020       | [Jonas Beuchert](http://users.ox.ac.uk/~kell5462/) and I won 2nd place at the local [ActInSpace](https://actinspace.org/) innovation contest.|
+| 09/2020       | The OU Physics Society is part of the inaugural [Varsity Sci](https://fb.me/e/45U1Q5Ntf).|
 | 07/2020       | Began my second mini-project with Alex Rogers on Snapshot GPS receivers.          |
-| 04/2020       | Began a 10-week project with the Satellite Applications Catapult.                 |
+| 04/2020       | Began a 10-week project with the [Satellite Applications Catapult](https://sa.catapult.org.uk/).|
 | 03/2020       | I am now the new Publicity Officer for the Oxford University Physics Society!     |
-| 10/2019       | Started my 4-year PhD at the University of Oxford with the AIMS CDT.              |
-| 08/2019       | Went to QuID 2019, a summer school on quantum information at the ETH Zurich.      |
+| 10/2019       | Started my 4-year PhD at the University of Oxford with the [AIMS CDT](aims.robots.ox.ac.uk).|
+| 08/2019       | Went to [QuID](https://qid.ethz.ch/) 2019, a summer school on quantum information at the ETH Zurich.|
 | 07/2019       | Started working at the CERN data centre as part of their Summer Student programme.|
-| 06/2019       | Defended my BSc thesis on superscalar out-of-order processing.                    |
+| 06/2019       | Defended my BSc [thesis on superscalar out-of-order processing](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf).|
 
 
 <br>

@@ -25,10 +25,10 @@ Sometimes I just like to type out lecture notes as a form of revision for the ex
 Held in the winter of 2017/2018 at the University of Manchester by Prof Gary Fuller and Prof Albert Zijlstra. This course is an introduction to stars, orbits, galaxies and cosmology.<br>
 
 [Quantum Physics and Relativity](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/Quantum_Physics_and_Relativity.pdf)<br>
-Held in the winter of 2017/2018 at the University of Manchester by Prof Brian Cox and Prof Jeffrey Forshaw. It is a very simple introduction to SRT and Quantum Physics.<br>
+Held in the winter of 2017/2018 at the University of Manchester by Prof Brian Cox and Prof Jeffrey Forshaw. It is a very simple introduction to special relativity and quantum physics.<br>
 
 [Applications of Quantum Physics](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/Applications_of_Quantum_Physics.pdf)<br>
-Held in the winter of 2017/2018 at the University of Manchester by Prof Sean Freeman. The course introduces some interesting new technologies in which quantum phenomena like tunneling and superposition are exploited. This is mostly just a typed out copy of the handwritten lecture notes with some comments by me.<br>
+Held in the winter of 2017/2018 at the University of Manchester by Prof Sean Freeman. The course introduces some interesting new technologies in which quantum phenomena like tunnelling and superposition are exploited. This is mostly just a typed out copy of the handwritten lecture notes with some comments by me.<br>
 
 [Zeeman Spectroscopy](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/f44.pdf) <br>
 This is a long evaluation for one of the many experiments that physics students at the University of Heidelberg have to do to get their BSc degree.<br>

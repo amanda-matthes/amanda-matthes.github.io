@@ -8,7 +8,7 @@ Superscalar out-of-order execution has become the norm in modern processors. Yet
 You can access the whole thesis text [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf). <br>
 
 ## Oxford University Physics Society
-The [OU Physics Society](https://oxford-physsoc.com/) organises talks, extracurricular classes and socials for anyone interested physics and its many applications. I am currently the Publicity Officer and in charge of the event announcements and any new stash. Currently, I am also hosting our Wednesday talks. <br>
+The [OU Physics Society](https://oxford-physsoc.com/) organises talks, extracurricular classes and socials for anyone interested physics and its many applications. I am currently the Publicity Officer and in charge of the event announcements and any new stash. At the moment, I am also hosting our Wednesday talks. <br>
 Stay up to date on our events with our [facebook page](https://www.facebook.com/physsoc) or join our mailing list on our [website](https://oxford-physsoc.com/) to become a physics phriend! I also just launched our [online store](https://shop.spreadshirt.co.uk/ou-physics-society-stash/all) for all your stash needs. <br>
 
 ## Oxford University Powerlifting Club

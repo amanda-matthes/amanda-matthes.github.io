@@ -1,5 +1,5 @@
 ## About
-I am a PhD candidate at the University of Oxford with the [AIMS CDT](aims.robots.ox.ac.uk). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors. <br>
+I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors. <br>
 Recently, I have started working on low-cost conservation technologies. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/).
 
 ## BSc Thesis - Exploiting Instruction Level Parallelism
@@ -51,7 +51,7 @@ Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stach
 | 07/2020       | Began my second mini-project with Alex Rogers on Snapshot GPS receivers.          |
 | 04/2020       | Began a 10-week project with the [Satellite Applications Catapult](https://sa.catapult.org.uk/).|
 | 03/2020       | I am now the new Publicity Officer for the Oxford University Physics Society!     |
-| 10/2019       | Started my 4-year PhD at the University of Oxford with the [AIMS CDT](aims.robots.ox.ac.uk).|
+| 10/2019       | Started my 4-year PhD at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/).|
 | 08/2019       | Went to [QuID](https://qid.ethz.ch/) 2019, a summer school on quantum information at the ETH Zurich.|
 | 07/2019       | Started working at the CERN data centre as part of their Summer Student programme.|
 | 06/2019       | Defended my BSc [thesis on superscalar out-of-order processing](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf).|

@@ -8,8 +8,8 @@ Superscalar out-of-order execution has become the norm in modern processors. Yet
 You can access the whole thesis text [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf). <br>
 
 ## Oxford University Physics Society
-The [OU Physics Society](https://oxford-physsoc.com/) organises talks, extracurricular classes and socials for anyone interested physics and its many applications. I am currently the Publicity Officer and in charge of the event announcements and any new stash. At the moment, I am also hosting our Wednesday talks. <br>
-Stay up to date on our events with our [facebook page](https://www.facebook.com/physsoc) or join our mailing list on our [website](https://oxford-physsoc.com/) to become a physics phriend! I also just launched our [online store](https://shop.spreadshirt.co.uk/ou-physics-society-stash/all) for all your stash needs. <br>
+The [OU Physics Society](https://oxford-physsoc.com/) organises talks, extracurricular classes and socials for anyone interested physics and its many applications. I am now the society's Media Officer after being the Publicity Officer for a year. You might know me as the occasional host of our Wednesday talks. <br>
+Stay up to date on our events with our [facebook page](https://www.facebook.com/physsoc) or join our mailing list on our [website](https://oxford-physsoc.com/) to become a physics phriend! I also recently launched our [online store](https://shop.spreadshirt.co.uk/ou-physics-society-stash/all) for all your stash needs. <br>
 
 ## Oxford University Powerlifting Club
 With gyms closed, most of us can't train. To make it through however many months this will take, I am currently organising a weekly movie night for fellow lifters without a gym to hang out and watch silly strength sport related movies. Get in touch if you would like an invite to the WhatsApp group. <br>

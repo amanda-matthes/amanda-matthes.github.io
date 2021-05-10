@@ -46,6 +46,7 @@ Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stach
 
 | Date          |News                                                                               |
 |---------------|-----------------------------------------------------------------------------------|
+| 05/2021       | Voted in as the new Novice Captain of the Powerlifting Club.                      |
 | 02/2021       | This term, I will be hosting our Wednesday talks for the Physics Society.         |
 | 11/2020       | [Jonas Beuchert](http://users.ox.ac.uk/~kell5462/) and I won 2nd place at the local [ActInSpace](https://actinspace.org/) innovation contest.|
 | 09/2020       | The OU Physics Society is part of the inaugural [Varsity Sci](https://fb.me/e/45U1Q5Ntf).|

@@ -1,19 +1,22 @@
 ## About
 I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors. <br>
-Recently, I have started working on low-cost conservation technologies. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/).
+I am currently working on [SnapperGPS](https://twitter.com/SnapperGPS), a small, low-cost, low-power GNSS location tracking system, specifically developed for wildlife tracking. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/).
+
+## SnapperGPS (in development)
+[SnapperGPS](https://twitter.com/SnapperGPS) is an open-source location tracking system, co-developed with Jonas Beuchert and Prof Alex Rogers. It comprises a small, low-cost, low-power data logger and a [web application](https://snapper-gps.herokuapp.com/) that is used to configure the device and handles the post-processing of the data. SnapperGPS achieves accuracies of 10m - 20m and can run for over ten years on a coin cell. Despite its name, SnapperGPS actually uses multiple global navigation satellite systems (GNSS), not just GPS, the one owned by the United States. It also uses Galileo (owned by the European Union) and BeiDou (owned by China).
+
+## Oxford University Powerlifting Club
+I am currently the Novice Captain for the [Oxford University Powerlifting Club](https://www.ouplc.co.uk/). If you are interested in getting started with lifting heavy weights, get in touch! <br>
+When gyms closed, most of us couldn't train the way we wanted to. To make it through all those months, I started a weekly movie night for fellow lifters to hang out and watch silly strength sport related movies. Send me a message if you would like an invite to the WhatsApp group. <br>
+
+## Oxford University Physics Society
+The [Oxford University Physics Society](https://oxford-physsoc.com/) organises talks, extracurricular classes and socials for anyone interested physics and its many applications. I am now the society's Media Officer after being the Publicity Officer for a year. You might know me as the occasional host of our Wednesday talks during the pandemic. <br>
+Stay up to date on our events with our [facebook page](https://www.facebook.com/physsoc) or join our mailing list on our [website](https://oxford-physsoc.com/) to become a physics phriend! I also launched our [online store](https://shop.spreadshirt.co.uk/ou-physics-society-stash/all) for all your stash needs. <br>
 
 ## BSc Thesis - Exploiting Instruction Level Parallelism
 Superscalar out-of-order execution has become the norm in modern processors. Yet there is little information in the literature about its implementation details. This thesis explores what new hardware structures superscalar out-of-order execution requires. It presents a design for a simple processor, implemented in SystemVerilog, that uses register renaming, reservation stations and a reorder buffer to dynamically schedule instructions. <br>
 
 You can access the whole thesis text [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf). <br>
-
-## Oxford University Physics Society
-The [Oxford University Physics Society](https://oxford-physsoc.com/) organises talks, extracurricular classes and socials for anyone interested physics and its many applications. I am now the society's Media Officer after being the Publicity Officer for a year. You might know me as the occasional host of our Wednesday talks. <br>
-Stay up to date on our events with our [facebook page](https://www.facebook.com/physsoc) or join our mailing list on our [website](https://oxford-physsoc.com/) to become a physics phriend! I also recently launched our [online store](https://shop.spreadshirt.co.uk/ou-physics-society-stash/all) for all your stash needs. <br>
-
-## Oxford University Powerlifting Club
-I am currently the Novice Captain for the [Oxford University Powerlifting Club](https://www.ouplc.co.uk/). If you are interested in getting started with lifting heavy weights, get in touch! <br>
-When gyms closed, most of us couldn't train the way we wanted to. To make it through all those months, I started a weekly movie night for fellow lifters to hang out and watch silly strength sport related movies. Send me a message if you would like an invite to the WhatsApp group. <br>
 
 ## Lecture Notes
 Most of my lecture notes are not worth sharing but here are some that might help others taking these courses now (or similar ones).

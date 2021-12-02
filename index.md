@@ -18,6 +18,26 @@ Superscalar out-of-order execution has become the norm in modern processors. Yet
 
 You can access the whole thesis text [here](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf). <br>
 
+
+### Updates
+
+| Date          |News                                                                               |
+|---------------|-----------------------------------------------------------------------------------|
+| 08/2021       | On fieldwork in Cape Verde. Here to track endangered loggerhead sea turtles with [FMB](https://fmb-maio.org/).|
+| 05/2021       | I am now the Arts & Culture Officer of the Keble College MCR                      |
+| 05/2021       | Voted in as the new Novice Captain of the [Powerlifting Club](https://www.ouplc.co.uk/)!|
+| 02/2021       | This term, I will be hosting our Wednesday talks for the [Physics Society](https://oxford-physsoc.com/).|
+| 11/2020       | [Jonas Beuchert](http://users.ox.ac.uk/~kell5462/) and I won 2nd place at the local [ActInSpace](https://actinspace.org/) innovation contest.|
+| 09/2020       | The OU Physics Society is part of the inaugural [Varsity Sci](https://fb.me/e/45U1Q5Ntf).|
+| 07/2020       | Began my second mini-project with Alex Rogers on Snapshot GPS receivers.          |
+| 04/2020       | Began a 10-week project with the [Satellite Applications Catapult](https://sa.catapult.org.uk/).|
+| 03/2020       | I am now the new Publicity Officer for the Oxford University Physics Society!     |
+| 10/2019       | Started my 4-year PhD at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/).|
+| 08/2019       | Went to [QuID](https://qid.ethz.ch/) 2019, a summer school on quantum information at the ETH Zurich.|
+| 07/2019       | Started working at the CERN data centre as part of their Summer Student programme.|
+| 06/2019       | Defended my BSc [thesis on superscalar out-of-order processing](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf).|
+
+
 ### Lecture Notes
 Most of my lecture notes are not worth sharing but here are some that might help others taking these courses now (or similar ones).
 I usually type out my lecture notes whenever the lecturer does not provide them or if the official notes are not useful. For me, lecture notes need to be searchable (so not handwritten), written in full sentences (so slides don't count) and concise but comprehensive. <br>
@@ -45,23 +65,6 @@ Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stach
 
 
 
-### Updates
-
-| Date          |News                                                                               |
-|---------------|-----------------------------------------------------------------------------------|
-| 08/2021       | On fieldwork in Cape Verde. Here to track endangered loggerhead sea turtles with [FMB](https://fmb-maio.org/).|
-| 05/2021       | I am now the Arts & Culture Officer of the Keble College MCR                      |
-| 05/2021       | Voted in as the new Novice Captain of the [Powerlifting Club](https://www.ouplc.co.uk/)!|
-| 02/2021       | This term, I will be hosting our Wednesday talks for the [Physics Society](https://oxford-physsoc.com/).|
-| 11/2020       | [Jonas Beuchert](http://users.ox.ac.uk/~kell5462/) and I won 2nd place at the local [ActInSpace](https://actinspace.org/) innovation contest.|
-| 09/2020       | The OU Physics Society is part of the inaugural [Varsity Sci](https://fb.me/e/45U1Q5Ntf).|
-| 07/2020       | Began my second mini-project with Alex Rogers on Snapshot GPS receivers.          |
-| 04/2020       | Began a 10-week project with the [Satellite Applications Catapult](https://sa.catapult.org.uk/).|
-| 03/2020       | I am now the new Publicity Officer for the Oxford University Physics Society!     |
-| 10/2019       | Started my 4-year PhD at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/).|
-| 08/2019       | Went to [QuID](https://qid.ethz.ch/) 2019, a summer school on quantum information at the ETH Zurich.|
-| 07/2019       | Started working at the CERN data centre as part of their Summer Student programme.|
-| 06/2019       | Defended my BSc [thesis on superscalar out-of-order processing](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf).|
 
 
 <br>

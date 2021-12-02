@@ -38,6 +38,8 @@ You can access the whole thesis text [here](https://github.com/amanda-matthes/am
 | 06/2019       | Defended my BSc [thesis on superscalar out-of-order processing](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf).|
 
 
+<!--
+
 ### Lecture Notes
 Most of my lecture notes are not worth sharing but here are some that might help others taking these courses now (or similar ones).
 I usually type out my lecture notes whenever the lecturer does not provide them or if the official notes are not useful. For me, lecture notes need to be searchable (so not handwritten), written in full sentences (so slides don't count) and concise but comprehensive. <br>
@@ -62,7 +64,7 @@ This is a long evaluation for one of the many experiments that physics students 
 [Experimentalphysik IV](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/Experimentalphysik_IV.pdf) <br>
 Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stachel. Experimental physics IV is a course on nuclear and particle physics. <br> <br>
 
-
+ -->
 
 
 

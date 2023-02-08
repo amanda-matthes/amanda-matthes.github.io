@@ -5,7 +5,7 @@ I am currently working on [SnapperGPS](https://twitter.com/SnapperGPS), a small,
 
 Apart from my PhD work, I am currently trying to understand if ecosystem collapse is a neglected existential risk. We currently have no technology to replace key ecosystem services, such as providing breathable air, safe water and pollination. It seems unclear how likely catastrophic ecosystem collapse is, although accelerating biodiversity loss is an alarming indicator that this risk is increasing rapidly. <br>
 
-Another recent side interest of mine is how distributed manufacturing can help with radically reducing the costs of humanitarian aid work (especially global health and development). Please talk to me about your thoughts on supply chain resilience! <br><br>
+Another recent side interest of mine is how improving supply chains (particularly through local and distributed manufacturing) can drastically reduce the costs of humanitarian aid work. <br><br>
 
 ### SnapperGPS (in development)
 ![SnapperGPS](./images/snappergps.png)
@@ -20,7 +20,7 @@ Loggerhead sea turtle (Cape Verde)     | Manx Shearwater (Skomer)
 :-------------------------:|:-------------------------:
 ![](./images/turtle.jpg)  |  ![](./images/bird.jpg)
 
-Follow the project on [Twitter](https://twitter.com/SnapperGPS) for updates. We are hoping to release a version later this year. <br><br>
+Follow the project on [Twitter](https://twitter.com/SnapperGPS) for updates. We are hoping to make a version available for purchase soon, however, global chip shortages have been making this difficult. <br><br>
 
 
 <!-- ### Oxford University Powerlifting Club

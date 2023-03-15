@@ -10,7 +10,7 @@ Another recent side interest of mine is how improving supply chains (particularl
 ### SnapperGPS (in development)
 ![SnapperGPS](./images/snappergps.png)
 
-[SnapperGPS](https://twitter.com/SnapperGPS) is an archival location tracking system, co-developed with Jonas Beuchert and Prof Alex Rogers. It comprises a small, low-cost, low-power data logger and a [web application](https://snapper-gps.herokuapp.com/) that is used to configure the device and handles the post-processing of the data. SnapperGPS achieves real-world accuracies of 10m - 20m and can run for over ten years on a coin cell. Despite its name, SnapperGPS actually uses multiple global navigation satellite systems (GNSS), not just GPS. It also uses Galileo and BeiDou. <br>
+[SnapperGPS](https://twitter.com/SnapperGPS) is an archival location tracking system that I co-developed as part of my PhD. It comprises a small, low-cost, low-power data logger and a [web application](https://snapper-gps.herokuapp.com/) that is used to configure the device and handles the post-processing of the data. SnapperGPS achieves real-world accuracies of 10m - 20m and can run for over ten years on a coin cell. Despite its name, SnapperGPS actually uses multiple global navigation satellite systems (GNSS), not just GPS. It also uses Galileo and BeiDou. <br>
 
 ![SnapperGPS](./images/slide.png)
 

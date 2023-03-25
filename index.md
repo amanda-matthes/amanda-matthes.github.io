@@ -3,9 +3,9 @@ I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aim
 
 I am currently working on [SnapperGPS](https://twitter.com/SnapperGPS), a small, low-cost, low-power GNSS location tracking system, specifically developed for wildlife tracking. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/). <br>
 
-Apart from my PhD work, I am currently trying to understand if ecosystem collapse is a neglected existential risk. We currently have no technology to replace key ecosystem services, such as providing breathable air, safe water and pollination. It seems unclear how likely catastrophic ecosystem collapse is, although accelerating biodiversity loss is an alarming indicator that this risk is increasing rapidly. <br>
+<!-- Apart from my PhD work, I am currently trying to understand if ecosystem collapse is a neglected existential risk. We currently have no technology to replace key ecosystem services, such as providing breathable air, safe water and pollination. It seems unclear how likely catastrophic ecosystem collapse is, although accelerating biodiversity loss is an alarming indicator that this risk is increasing rapidly. <br> -->
 
-Another recent side interest of mine is how improving supply chains (particularly through local and distributed manufacturing) can drastically reduce the costs of humanitarian aid work. <br><br>
+<!-- Another recent side interest of mine is how improving supply chains (particularly through local and distributed manufacturing) can drastically reduce the costs of humanitarian aid work. <br><br> -->
 
 ### SnapperGPS (in development)
 ![SnapperGPS](./images/snappergps.png)
@@ -41,7 +41,7 @@ You can access the whole thesis text [here](https://raw.githubusercontent.com/am
 
 | Date          |News                                                                               |
 |---------------|-----------------------------------------------------------------------------------|
-| 03/2023       | Attending EAGx Cambridge.              |
+<!-- | 03/2023       | Attending EAGx Cambridge.              | -->
 | 10/2022       | Attending the Global Gathering for Open Science Hardware, GOSH 2022.              |
 | 05/2022       | Deploying SnapperGPS with Manx Shearwaters on Skomer, Wales.                      |
 | 03/2022       | Giving a talk at the [International Sea Turtle Symposium (ISTS)](https://www.ists40perth.com.au/) about tracking nesting sea turtles with SnapperGSP.|

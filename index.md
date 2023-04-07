@@ -41,7 +41,7 @@ You can access the whole thesis text [here](https://raw.githubusercontent.com/am
 
 | Date          |News                                                                               |
 |---------------|-----------------------------------------------------------------------------------|
-<!-- | 03/2023       | Attending EAGx Cambridge.              | -->
+| 03/2023       | Attending EAGx Cambridge.              |
 | 10/2022       | Attending the Global Gathering for Open Science Hardware, GOSH 2022.              |
 | 05/2022       | Deploying SnapperGPS with Manx Shearwaters on Skomer, Wales.                      |
 | 03/2022       | Giving a talk at the [International Sea Turtle Symposium (ISTS)](https://www.ists40perth.com.au/) about tracking nesting sea turtles with SnapperGSP.|

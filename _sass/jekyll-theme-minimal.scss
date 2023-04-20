@@ -2,15 +2,15 @@
 @import "rouge-github";
 
 body {
-  background-color: #fff;
+  background-color: #24292E;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:#D1D5DA;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#D1D5DA;
   margin:0 0 20px;
 }
 
@@ -27,11 +27,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#D1D5DA;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#D1D5DA;
 }
 
 a {
@@ -92,12 +92,12 @@ th, td {
 }
 
 dt {
-  color:#444;
+  color:#D1D5DA;
   font-weight:700;
 }
 
 th {
-  color:#444;
+  color:#D1D5DA;
 }
 
 img {
@@ -156,7 +156,7 @@ ul.downloads {
 }
 
 strong {
-  color:#222;
+  color:#ffffff;
   font-weight:700;
 }
 
@@ -168,7 +168,7 @@ strong {
 .downloads a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color:#ffffff;
 }
 
 section {

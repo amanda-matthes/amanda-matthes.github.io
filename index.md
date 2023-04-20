@@ -16,7 +16,7 @@ I am currently working on [SnapperGPS](https://twitter.com/SnapperGPS), a small,
 
 ![SnapperGPS](./images/slide.png)
 
-In 2021 SnapperGPS was deployed on nesting loggerhead sea turtles in Cape Verde. Currently, a SnapperGPS variant is being trialled on Manx Shearwaters in Wales and Northern Ireland. <br>
+SnapperGPS has been successfully deployed on multiple species, including sea turtles and birds. <br>
 
 Loggerhead sea turtle    | Manx shearwater
 :-------------------------:|:-------------------------:

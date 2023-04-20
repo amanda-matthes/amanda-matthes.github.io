@@ -1,4 +1,4 @@
-## About
+## about
 I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors. <br>
 
 I am currently working on [SnapperGPS](https://twitter.com/SnapperGPS), a small, low-cost, low-power GNSS location tracking system, specifically developed for wildlife tracking. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/). <br>
@@ -42,7 +42,7 @@ You can access the whole thesis text [here](https://raw.githubusercontent.com/am
 
 ---
 
-## Updates
+## updates
 
 | Date          |News                                                                               |
 |---------------|-----------------------------------------------------------------------------------|

@@ -1,4 +1,4 @@
-### About
+## About
 I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors. <br>
 
 I am currently working on [SnapperGPS](https://twitter.com/SnapperGPS), a small, low-cost, low-power GNSS location tracking system, specifically developed for wildlife tracking. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/). <br>
@@ -9,7 +9,7 @@ I am currently working on [SnapperGPS](https://twitter.com/SnapperGPS), a small,
 
 ---
 
-### SnapperGPS (in development)
+## SnapperGPS (in development)
 ![SnapperGPS](./images/snappergps.png)
 
 [SnapperGPS](https://twitter.com/SnapperGPS) is an archival location tracking system that I co-developed as part of my PhD. It comprises a small, low-cost, low-power data logger and a [web application](https://snapper-gps.herokuapp.com/) that is used to configure the device and handles the post-processing of the data. SnapperGPS achieves real-world accuracies of 10m - 20m and can run for over ten years on a coin cell. Despite its name, SnapperGPS actually uses multiple global navigation satellite systems (GNSS), not just GPS. It also uses Galileo and BeiDou. <br>
@@ -35,14 +35,14 @@ Stay up to date on our events with our [facebook page](https://www.facebook.com/
 
 ---
 
-### BSc Thesis: Exploiting Instruction Level Parallelism
+## BSc Thesis: Exploiting Instruction Level Parallelism
 Superscalar out-of-order execution has become the norm in modern processors. Yet there is little information in the literature about its implementation details. This thesis explores what new hardware structures superscalar out-of-order execution requires. It presents a design for a simple processor, implemented in SystemVerilog, that uses register renaming, reservation stations and a reorder buffer to dynamically schedule instructions. <br>
 
 You can access the whole thesis text [here](https://raw.githubusercontent.com/amanda-matthes/amanda-matthes.github.io/master/docs/bachelor.pdf). <br><br>
 
 ---
 
-### Updates
+## Updates
 
 | Date          |News                                                                               |
 |---------------|-----------------------------------------------------------------------------------|
@@ -68,12 +68,12 @@ You can access the whole thesis text [here](https://raw.githubusercontent.com/am
 
 <!--
 
-### Lecture Notes
+## Lecture Notes
 Most of my lecture notes are not worth sharing but here are some that might help others taking these courses now (or similar ones).
 I usually type out my lecture notes whenever the lecturer does not provide them or if the official notes are not useful. For me, lecture notes need to be searchable (so not handwritten), written in full sentences (so slides don't count) and concise but comprehensive. <br>
 Sometimes I just like to type out lecture notes as a form of revision for the exam. <br>
 
-#### English notes
+### English notes
 
 [Introduction to Astrophysics and Cosmology](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/Introduction_to_Astrophysics_and_Cosmology.pdf)<br>
 Held in the winter of 2017/2018 at the University of Manchester by Prof Gary Fuller and Prof Albert Zijlstra. This course is an introduction to stars, orbits, galaxies and cosmology.<br>
@@ -87,17 +87,11 @@ Held in the winter of 2017/2018 at the University of Manchester by Prof Sean Fre
 [Zeeman Spectroscopy](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/f44.pdf) <br>
 This is a long evaluation for one of the many experiments that physics students at the University of Heidelberg have to do to get their BSc degree.<br>
 
-#### German notes
+### German notes
 
 [Experimentalphysik IV](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/Experimentalphysik_IV.pdf) <br>
 Held in the summer of 2017 at the University of Heidelberg by Prof Johanna Stachel. Experimental physics IV is a course on nuclear and particle physics. <br> <br>
 
  -->
 
-
-
-
 <br>
-
-
-Hosted on GitHub Pages - Theme by [orderedlist](https://github.com/orderedlist)

@@ -18,7 +18,7 @@ You can read more about the system in this [open access paper in the Journal of 
 
 ![SnapperGPS](./images/slide.png)
 
-SnapperGPS has been successfully deployed on multiple species, including sea turtles and birds. <br>
+SnapperGPS has been successfully deployed on multiple species, including sea turtles and birds. You can read about the first sea turtle deployment in [this ISTS40 conference abstract](https://ora.ox.ac.uk/objects/uuid:c9acf083-d5e5-4265-8425-67509c5e3b9b/files/sgx41mj82p) or [this GitHub conversation](https://github.com/orgs/SnapperGPS/discussions/4). <br>
 
 Loggerhead sea turtle    | Manx shearwater
 :-------------------------:|:-------------------------:

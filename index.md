@@ -43,9 +43,9 @@ I want to use my career to reduce suffering and increase happiness as much as I 
 | 02/2021       | this term, I will be hosting our Wednesday talks for the [Physics Society](https://oxford-physsoc.com/)|
 | 09/2020       | the OU Physics Society is part of the inaugural [Varsity Sci](https://fb.me/e/45U1Q5Ntf)|
 | 07/2020       | began my second mini-project with Alex Rogers on Snapshot GPS receivers          |
-| 04/2020       | began a 10-week project with the [Satellite Applications Catapult](https://sa.catapult.org.uk/)|
+| 04/2020       | began a 10-week project with the [Satellite Applications Catapult](https://sa.catapult.org.uk/) on [space debris](https://amanda-matthes.github.io/space_debris.html)|
 | 03/2020       | I am now the new Publicity Officer for the Oxford University Physics Society     |
 | 10/2019       | started my 4-year PhD at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/)|
 | 08/2019       | at [QuID](https://qid.ethz.ch/) 2019, a summer school on quantum information at the ETH Zurich|
 | 07/2019       | started working at the CERN data centre as part of their Summer Student programme|
-| 06/2019       | defended my BSc [thesis on superscalar out-of-order processing](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf)|
+| 06/2019       | defended my BSc [thesis on superscalar out-of-order processing](https://amanda-matthes.github.io/exploiting_instruction_level_parallelism.html)|

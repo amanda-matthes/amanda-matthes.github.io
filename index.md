@@ -1,5 +1,5 @@
 ## about
-I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors. <br>
+I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors.
 
 I am currently working on [SnapperGPS](https://twitter.com/SnapperGPS), a small, low-cost, low-power GNSS location tracking system, specifically developed for wildlife tracking. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/).
 
@@ -7,7 +7,6 @@ I want to use my career to reduce suffering and increase happiness as much as I 
 <!-- Apart from my PhD work, I am currently trying to understand if ecosystem collapse is a neglected existential risk. We currently have no technology to replace key ecosystem services, such as providing breathable air, safe water and pollination. It seems unclear how likely catastrophic ecosystem collapse is, although accelerating biodiversity loss is an alarming indicator that this risk is increasing rapidly. <br> -->
 
 <!-- Another recent side interest of mine is how improving supply chains (particularly through local and distributed manufacturing) can drastically reduce the costs of humanitarian aid work. <br><br> -->
-<br>
 
 ---
 
@@ -51,6 +50,3 @@ I want to use my career to reduce suffering and increase happiness as much as I 
 | 08/2019       | Went to [QuID](https://qid.ethz.ch/) 2019, a summer school on quantum information at the ETH Zurich.|
 | 07/2019       | Started working at the CERN data centre as part of their Summer Student programme.|
 | 06/2019       | Defended my BSc [thesis on superscalar out-of-order processing](https://github.com/amanda-matthes/amanda-matthes.github.io/blob/master/docs/bachelor.pdf).|
-
-
-<br>

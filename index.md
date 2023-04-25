@@ -14,6 +14,8 @@ I am currently working on [SnapperGPS](https://twitter.com/SnapperGPS), a small,
 
 [SnapperGPS](https://twitter.com/SnapperGPS) is an archival location tracking system that I co-developed as part of my PhD. It comprises a small, low-cost, low-power data logger and a [web application](https://snappergps.info/) that is used to configure the device and handles the post-processing of the data. SnapperGPS achieves real-world accuracies of 10m - 20m and can run for over ten years on a coin cell. Despite its name, SnapperGPS actually uses multiple global navigation satellite systems (GNSS), not just GPS. It also uses Galileo and BeiDou. <br>
 
+You can read more about the system in this [open access paper in the Journal of Open Hardware](https://openhardware.metajnl.com/articles/10.5334/joh.48).<br>
+
 ![SnapperGPS](./images/slide.png)
 
 SnapperGPS has been successfully deployed on multiple species, including sea turtles and birds. <br>
@@ -22,7 +24,7 @@ Loggerhead sea turtle    | Manx shearwater
 :-------------------------:|:-------------------------:
 ![](./images/turtle.jpg)  |  ![](./images/bird.jpg)
 
-Follow the project on [Twitter](https://twitter.com/SnapperGPS) for updates. We are hoping to make a version available for purchase soon, however, global chip shortages have been making this difficult. <br><br>
+Follow the project on [Twitter](https://twitter.com/SnapperGPS) for updates. We are hoping to make a version available for purchase soon, however, global chip shortages have been making this difficult. It's all open-source, though, so you can always build your own if you can find the components :) <br><br>
 
 
 <!-- ### Oxford University Powerlifting Club
@@ -35,8 +37,17 @@ Stay up to date on our events with our [facebook page](https://www.facebook.com/
 
 ---
 
-## BSc Thesis: Exploiting Instruction Level Parallelism
-Superscalar out-of-order execution has become the norm in modern processors. Yet there is little information in the literature about its implementation details. This thesis explores what new hardware structures superscalar out-of-order execution requires. It presents a design for a simple processor, implemented in SystemVerilog, that uses register renaming, reservation stations and a reorder buffer to dynamically schedule instructions. <br>
+## space debris (mini report)
+![space debris](./images/tracked_objects_in_orbit.png)
+
+Satellites provide humans across the world with many invaluable services. But as we continue to launch an increasing number of missions, those satellites are more and more likely to be damaged by orbiting objects, mostly space debris. [In this report](https://raw.githubusercontent.com/amanda-matthes/amanda-matthes.github.io/master/docs/Amanda_Matthes-Combatting_Space_Debris_with_Autonomous_Systems.pdf.pdf), I first explain why space debris is a real concern, and then present four key technologies that can help combat the problem.
+
+This report was written as part of a 10-week mini-project with the Satellite Applications Catapult in 2020.
+
+---
+
+## exploiting instruction level parallelism (BSc thesis)
+Superscalar out-of-order execution has become the norm in modern processors. Yet there is little information in the literature about its implementation details. In my BSc thesis, I explore what new hardware structures superscalar out-of-order execution requires. I present a design for a simple processor, implemented in SystemVerilog, that uses register renaming, reservation stations and a reorder buffer to dynamically schedule instructions. <br>
 
 You can access the whole thesis text [here](https://raw.githubusercontent.com/amanda-matthes/amanda-matthes.github.io/master/docs/bachelor.pdf). <br><br>
 

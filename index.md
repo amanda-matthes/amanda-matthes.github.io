@@ -33,7 +33,7 @@ I want to use my career to reduce suffering and increase happiness as much as I 
 | Date          |News                                                                               |
 |---------------|-----------------------------------------------------------------------------------|
 | 03/2023       | Attending EAGx Cambridge.              |
-| 10/2022       | Attending the Global Gathering for Open Science Hardware, GOSH 2022.              |
+| 10/2022       | At the Global Gathering for Open Science Hardware, GOSH 2022.              |
 | 05/2022       | Deploying SnapperGPS with Manx Shearwaters on Skomer, Wales.                      |
 | 03/2022       | Giving a talk at the [International Sea Turtle Symposium (ISTS)](https://www.ists40perth.com.au/) about tracking nesting sea turtles with SnapperGSP.|
 | 12/2021       | Our SnapperGPS work is featured on the cover of the 2021 Winter edition of [Inspired Research](https://www.cs.ox.ac.uk/news-events/inspiredresearch.html), the twice-yearly newsletter published by the Department of Computer Science at University of Oxford.|

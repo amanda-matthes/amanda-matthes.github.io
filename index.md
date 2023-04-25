@@ -4,18 +4,14 @@ I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aim
 I am currently working on [SnapperGPS](https://twitter.com/SnapperGPS), a small, low-cost, low-power GNSS location tracking system, specifically developed for wildlife tracking. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/).
 
 I want to use my career to reduce suffering and increase happiness as much as I can. Because of my academic background, I currently believe that I can have the highest impact by researching potential cause areas and effective interventions. But I also might be an unusually good fit for developing high-impact technologies (hardware and software).
-
-<br>
-
 <!-- Apart from my PhD work, I am currently trying to understand if ecosystem collapse is a neglected existential risk. We currently have no technology to replace key ecosystem services, such as providing breathable air, safe water and pollination. It seems unclear how likely catastrophic ecosystem collapse is, although accelerating biodiversity loss is an alarming indicator that this risk is increasing rapidly. <br> -->
 
 <!-- Another recent side interest of mine is how improving supply chains (particularly through local and distributed manufacturing) can drastically reduce the costs of humanitarian aid work. <br><br> -->
+<br>
 
 ---
 
-
-
-## read more about some of the things that I have done in the past
+## read more about things I have done
 
 - [**SnapperGPS** - a small, low-cost, low-power location logging system for wildlife tracking](https://amanda-matthes.github.io/SnapperGPS.html) <br>
 - [a mini report on **space debris** - is it a problem and what can we do about it?](https://amanda-matthes.github.io/space_debris.html) <br>

@@ -10,12 +10,13 @@ I want to use my career to reduce suffering and increase happiness. I believe th
 
 ---
 
-## read more about things I have done
+## read more about some things I have done
 
-- [**SnapperGPS** - a small, low-cost, low-power location logging system for wildlife tracking](https://amanda-matthes.github.io/SnapperGPS.html) <br>
-- [a mini report on **space debris** - is it a problem and what can we do about it?](https://amanda-matthes.github.io/space_debris.html) <br>
+- [**SnapperGPS** - a small, low-cost, low-power location logging system for wildlife tracking](https://amanda-matthes.github.io/SnapperGPS.html)
+- [a mini report on **space debris** - is it a problem and what can we do about it?](https://amanda-matthes.github.io/space_debris.html)
 - [my **BSc thesis** about my implementation of a superscalar out-of-order processor pipeline in System Verilog](https://amanda-matthes.github.io/exploiting_instruction_level_parallelism.html)
 - [some old **lecture notes** I took during my undergraduate degree that others have found useful](https://amanda-matthes.github.io/lecture_notes.html)
+- [my printables account where I sometimes upload **3D designs**](https://www.printables.com/@AmandaMatthes_580418)
 
 <!-- ### hardware
 ### software

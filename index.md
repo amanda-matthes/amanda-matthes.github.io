@@ -16,7 +16,7 @@ I want to use my career to reduce suffering and increase happiness. I believe th
 - [a mini report on **space debris** - is it a problem and what can we do about it?](https://amanda-matthes.github.io/space_debris.html)
 - [my **BSc thesis** about my implementation of a superscalar out-of-order processor pipeline in System Verilog](https://amanda-matthes.github.io/exploiting_instruction_level_parallelism.html)
 - [some old **lecture notes** I took during my undergraduate degree that others have found useful](https://amanda-matthes.github.io/lecture_notes.html)
-- [my printables account where I sometimes upload **3D designs**](https://www.printables.com/@AmandaMatthes_580418)
+- [my printables account where I sometimes upload **3D designs**](https://www.printables.com/@AmandaMatthes_580418){:target="_blank"}
 
 <!-- ### hardware
 ### software
@@ -37,7 +37,7 @@ I want to use my career to reduce suffering and increase happiness. I believe th
 | 02/2023       | the Journal of Open Hardware published [our hardware paper on SnapperGPS](https://openhardware.metajnl.com/articles/10.5334/joh.48) |
 | 10/2022       | at the Global Gathering for Open Science Hardware, GOSH 2022              |
 | 05/2022       | deploying SnapperGPS with Manx Shearwaters on Skomer, Wales                         |
-| 03/2022       | giving a talk at the [International Sea Turtle Symposium (ISTS)](https://www.ists40perth.com.au/) about tracking nesting sea turtles with SnapperGSP|
+| 03/2022       | giving a talk at the [International Sea Turtle Symposium (ISTS)](https://www.ists40perth.com.au/) about tracking nesting sea turtles with SnapperGPS|
 | 12/2021       | our SnapperGPS work is featured on the cover of the 2021 Winter edition of [Inspired Research](https://www.cs.ox.ac.uk/news-events/inspiredresearch.html), the twice-yearly newsletter published by the Department of Computer Science at University of Oxford|
 | 08/2021       | on fieldwork in Cape Verde to track endangered loggerhead sea turtles with [FMB](https://fmb-maio.org/)|
 | 05/2021       | voted in as Arts & Culture Officer of the Keble College MCR                     |

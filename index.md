@@ -33,6 +33,7 @@ I want to use my career to improve wellbeing now and in the future. I think that
 
 | Date          |News                                                                               |
 |---------------|-----------------------------------------------------------------------------------|
+| 04/2023       | suspending my degree until Michaelmas Term (October 2023)              |
 | 03/2023       | attending EAGx Cambridge              |
 | 02/2023       | the Journal of Open Hardware published [our hardware paper on SnapperGPS](https://openhardware.metajnl.com/articles/10.5334/joh.48){:target="_blank"} |
 | 10/2022       | at the Global Gathering for Open Science Hardware, GOSH 2022              |

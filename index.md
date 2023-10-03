@@ -1,9 +1,12 @@
 ## about me
 I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/){:target="_blank"}. I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors.
 
+I am interested in developing better technologies (hardware and software) for ecology work. In particular, I want to support research into wild animals and their welfare.
+
 My most recent project involved co-developing [SnapperGPS](https://twitter.com/SnapperGPS){:target="_blank"}, an open-source, low-cost, low-power GNSS location data logging system, specifically developed for wildlife tracking. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/){:target="_blank"}.
 
-I want to use my career to improve wellbeing now and in the future. I think that I can currently have the highest impact by researching potential new cause areas and effective interventions. I am also interested in developing potentially high-impact technologies (hardware and software).
+<!-- I want to use my career to improve wellbeing now and in the future. I think that I can currently have the highest impact by researching potential new cause areas and effective interventions. I am also interested in developing potentially high-impact technologies (hardware and software). -->
+
 <!-- Apart from my PhD work, I am currently trying to understand if ecosystem collapse is a neglected existential risk. We currently have no technology to replace key ecosystem services, such as providing breathable air, safe water and pollination. It seems unclear how likely catastrophic ecosystem collapse is, although accelerating biodiversity loss is an alarming indicator that this risk is increasing rapidly. <br> -->
 
 <!-- Another recent side interest of mine is how improving supply chains (particularly through local and distributed manufacturing) can drastically reduce the costs of humanitarian aid work. <br><br> -->

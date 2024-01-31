@@ -1,5 +1,5 @@
 ## about me
-I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/){:target="_blank"}. I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors.
+I am a final-year PhD student at the University of Oxford with the CDT in Autonomous Intelligent Machines and Systems ([AIMS CDT](https://aims.robots.ox.ac.uk/){:target="_blank"}). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors.
 
 I am interested in any work that could have a large positive impact on humans or other animals. Currently, I am particularly interested in developing better technologies (hardware and software) for ecology research. I would be especially excited to support work that aims to better understand (or maybe even improve) the welfare of wild animals.
 

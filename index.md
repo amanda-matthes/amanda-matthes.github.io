@@ -1,9 +1,11 @@
 ## about me
 I am a PhD candidate at the University of Oxford with the [AIMS CDT](https://aims.robots.ox.ac.uk/){:target="_blank"}. I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors.
 
-I am interested in developing better technologies (hardware and software) for ecology work. In particular, I want to support research into wild animals and their welfare.
+I am interested in any work that could have a large positive impact on humans or other animals. Currently, I am particularly interested in developing better technologies (hardware and software) for ecology research. I would be especially excited to support work that aims to better understand (or maybe even improve) the welfare of wild animals.
 
-My most recent project involved co-developing [SnapperGPS](https://twitter.com/SnapperGPS){:target="_blank"}, an open-source, low-cost, low-power GNSS location data logging system, specifically developed for wildlife tracking. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/){:target="_blank"}.
+I am open to jobs in research, engineering and science communication as well as entrepreneurship opportunities. Please reach out if you know of a role that I might be a good fit for.
+
+My most recent project involved co-developing [SnapperGPS](https://twitter.com/SnapperGPS){:target="_blank"}, an open-source, low-cost, low-power GNSS location data logging system, specifically developed for tracking wild animals. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/){:target="_blank"}.
 
 <!-- I want to use my career to improve wellbeing now and in the future. I think that I can currently have the highest impact by researching potential new cause areas and effective interventions. I am also interested in developing potentially high-impact technologies (hardware and software). -->
 

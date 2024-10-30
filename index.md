@@ -38,6 +38,9 @@ My most recent project involved co-developing [SnapperGPS](https://twitter.com/S
 
 | Date          |News                                                                               |
 |---------------|-----------------------------------------------------------------------------------|
+| 07/2024       | attending the UFAW International Animal Welfare Conference      |
+| 06/2024       | attending the NYU wild animal welfare summit             |
+| 05/2024       | attending EAG London             |
 | 10/2023       | resuming my PhD degree to write up my dissertation             |
 | 08/2023       | attending EAGx NYC              |
 | 04/2023       | suspending my degree until Michaelmas Term (October 2023)              |

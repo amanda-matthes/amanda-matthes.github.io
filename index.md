@@ -1,6 +1,6 @@
 ## about me
 
-I am a final-year PhD student at the University of Oxford with the CDT in Autonomous Intelligent Machines and Systems ([AIMS CDT](https://aims.robots.ox.ac.uk/){:target="\_blank"}). I have an undergraduate degree in physics from the University of Heidelberg, where I wrote my thesis on superscalar out-of-order processors. I have recently started working as an engineer at [Amodo Design](https://www.amododesign.com/){:target="\_blank"}.
+I am an engineer at [Amodo Design](https://www.amododesign.com/){:target="\_blank"}. I have a PhD in computer science from the University of Oxford with the CDT in Autonomous Intelligent Machines and Systems ([AIMS CDT](https://aims.robots.ox.ac.uk/){:target="\_blank"}) and an undergraduate degree in physics from the University of Heidelberg.
 
 Generally, I am interested in any work that could have a large positive impact on humans or other animals. Currently, I think a lot about how to develop better tools (hardware and software) for ecology research. I would be especially excited to support work that aims to better understand (or maybe even improve) the welfare of wild animals.
 
@@ -16,7 +16,6 @@ Generally, I am interested in any work that could have a large positive impact o
 
 ## things I am doing at the moment
 
-- [I am finishing up my DPhil aka **PhD at the University of Oxford**](https://www.cs.ox.ac.uk/people/amanda.matthes/){:target="\_blank"}
 - [I am an **engineer** at Amodo Design](https://www.amododesign.com/){:target="\_blank"}
 - [I restarted and run **EA Sheffield**](https://ea-sheffield.github.io/){:target="\_blank"}
 - [I write monthly-ish **paper round-ups** for the Open Source Solutions Group on WILDLABS](https://wildlabs.net/members/amandamatthes?tab=content){:target="\_blank"}
@@ -29,7 +28,7 @@ Generally, I am interested in any work that could have a large positive impact o
 - [a mini report on **space debris** - is it a problem and what can we do about it?](https://amanda-matthes.github.io/space_debris.html){:target="\_blank"}
 - [my **BSc thesis** about my implementation of a superscalar out-of-order processor pipeline in System Verilog](https://amanda-matthes.github.io/exploiting_instruction_level_parallelism.html){:target="\_blank"}
 - [some old **lecture notes** I took during my undergraduate degree that others have found useful](https://amanda-matthes.github.io/lecture_notes.html){:target="\_blank"}
-- [my printables account where I sometimes upload **3D designs**](https://www.printables.com/@AmandaMatthes_580418){:target="\_blank"}
+<!-- - [my printables account where I sometimes upload **3D designs**](https://www.printables.com/@AmandaMatthes_580418){:target="\_blank"} -->
 
 <!-- ### hardware
 ### software

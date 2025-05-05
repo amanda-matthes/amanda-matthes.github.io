@@ -16,18 +16,16 @@ Generally, I am interested in any work that could have a large positive impact o
 
 ## things I am doing at the moment
 
-- [I am an **engineer** at Amodo Design](https://www.amododesign.com/){:target="\_blank"}
-- [I restarted and run **EA Sheffield**](https://ea-sheffield.github.io/){:target="\_blank"}
-- [I write monthly-ish **paper round-ups** for the Open Source Solutions Group on WILDLABS](https://wildlabs.net/members/amandamatthes?tab=content){:target="\_blank"}
-
+- [I am an **engineer** at Amodo Design](https://www.amododesign.com/){:target="\_blank"}.
+- [I restarted and run **EA Sheffield**](https://ea-sheffield.github.io/){:target="\_blank"}.
 ---
 
 ## links to things I have done in the past
-
-- [**SnapperGPS** - a small, low-cost, low-power location logging system for wildlife tracking](https://amanda-matthes.github.io/SnapperGPS.html){:target="\_blank"}
-- [a mini report on **space debris** - is it a problem and what can we do about it?](https://amanda-matthes.github.io/space_debris.html){:target="\_blank"}
-- [my **BSc thesis** about my implementation of a superscalar out-of-order processor pipeline in System Verilog](https://amanda-matthes.github.io/exploiting_instruction_level_parallelism.html){:target="\_blank"}
-- [some old **lecture notes** I took during my undergraduate degree that others have found useful](https://amanda-matthes.github.io/lecture_notes.html){:target="\_blank"}
+- I organised [**EA North**, a one-day Effective Altruism conference for 35 people around the North of England](https://forum.effectivealtruism.org/posts/eQcpxyLfXoA8bXY6K/ea-north-2025-retrospective){:target="\_blank"}. [In terms of new connections, the event was 12x more cost-effective than larger established events in the space](https://forum.effectivealtruism.org/posts/m9sTFoAsE8dSnzoBt/untitled-draft-tr7p){:target="\_blank"}.
+- I co-developed [**SnapperGPS** - a small, low-cost, low-power location logging system for wildlife tracking](https://amanda-matthes.github.io/SnapperGPS.html){:target="\_blank"}.
+- I wrote [a mini report on **space debris** - is it a problem and what can we do about it?](https://amanda-matthes.github.io/space_debris.html){:target="\_blank"}.
+- I wrote [my **BSc thesis** about my implementation of a superscalar out-of-order processor pipeline in System Verilog](https://amanda-matthes.github.io/exploiting_instruction_level_parallelism.html){:target="\_blank"}.
+- Here are [some old **lecture notes** I took during my undergraduate degree that others have found useful](https://amanda-matthes.github.io/lecture_notes.html){:target="\_blank"}.
 <!-- - [my printables account where I sometimes upload **3D designs**](https://www.printables.com/@AmandaMatthes_580418){:target="\_blank"} -->
 
 <!-- ### hardware

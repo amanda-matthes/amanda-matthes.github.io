@@ -21,7 +21,7 @@ Generally, I am interested in any work that could have a large positive impact o
 ---
 
 ## links to things I have done in the past
-- I organised [**EA North**, a one-day Effective Altruism conference for 35 people around the North of England](https://forum.effectivealtruism.org/posts/eQcpxyLfXoA8bXY6K/ea-north-2025-retrospective){:target="\_blank"}. [In terms of new connections, the event was 12x more cost-effective than larger established events in the space](https://forum.effectivealtruism.org/posts/m9sTFoAsE8dSnzoBt/untitled-draft-tr7p){:target="\_blank"}.
+- I organised [**EA North**, a one-day Effective Altruism conference](https://forum.effectivealtruism.org/posts/eQcpxyLfXoA8bXY6K/ea-north-2025-retrospective){:target="\_blank"} for 35 people around the North of England. [In terms of new connections, the event was 12x more cost-effective than larger established events in the space](https://forum.effectivealtruism.org/posts/m9sTFoAsE8dSnzoBt/untitled-draft-tr7p){:target="\_blank"}.
 - I co-developed [**SnapperGPS** - a small, low-cost, low-power location logging system for wildlife tracking](https://amanda-matthes.github.io/SnapperGPS.html){:target="\_blank"}.
 - I wrote [a mini report on **space debris** - is it a problem and what can we do about it?](https://amanda-matthes.github.io/space_debris.html){:target="\_blank"}.
 - I wrote [my **BSc thesis** about my implementation of a superscalar out-of-order processor pipeline in System Verilog](https://amanda-matthes.github.io/exploiting_instruction_level_parallelism.html){:target="\_blank"}.

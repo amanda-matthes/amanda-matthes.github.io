@@ -19,6 +19,7 @@ Generally, I am interested in any work that could have a large positive impact o
 - I am an [**engineer** at Amodo Design](https://www.amododesign.com/){:target="\_blank"}.
 - I restarted and run [**EA Sheffield**](https://ea-sheffield.github.io/){:target="\_blank"}.
 
+
 ---
 
 ## links to things I have done in the past

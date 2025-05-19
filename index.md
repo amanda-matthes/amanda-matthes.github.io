@@ -2,7 +2,7 @@
 
 I am an engineer at [Amodo Design](https://www.amododesign.com/){:target="\_blank"}. I have a PhD in computer science from the University of Oxford with the CDT in Autonomous Intelligent Machines and Systems ([AIMS CDT](https://aims.robots.ox.ac.uk/){:target="\_blank"}) and an undergraduate degree in physics from the University of Heidelberg.
 
-Generally, I am interested in any work that could have a large positive impact on humans or other animals. Currently, I think a lot about how to develop better tools (hardware and software) for ecology research. I would be especially excited to support work that aims to better understand (or maybe even improve) the welfare of wild animals.
+Generally, I am interested in any work that could have a large positive impact on humans or other animals. Currently, I think a lot about how to develop better tools (hardware and software) to study the welfare of non-human animals. I would be especially excited to support work that aims to better understand (or maybe even improve) the welfare of wild animals at scale.
 
 <!-- My most recent project involved co-developing [SnapperGPS](https://twitter.com/SnapperGPS){:target="_blank"}, an open-source, low-cost, low-power GNSS location data logging system, specifically developed for tracking wild animals. My supervisor is [Prof Alex Rogers](http://www.cs.ox.ac.uk/people/alex.rogers/){:target="_blank"}. -->
 
